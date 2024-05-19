@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class BranchTests2 {
+public class BranchTests2 {
+    public static void main(String[] args) {
+        
+    }
 }
