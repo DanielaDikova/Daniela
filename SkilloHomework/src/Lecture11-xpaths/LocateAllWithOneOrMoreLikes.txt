@@ -1,0 +1,1 @@
+ //strong[translate(substring-before(.,' '),'k','')>=1]
